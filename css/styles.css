@@ -1,0 +1,13 @@
+.thumbnail {
+  height: 200px;
+  display: block;
+  margin: auto;
+}
+
+h3 {
+  text-align: center;
+}
+
+.hide-this {
+  display: none;
+}
